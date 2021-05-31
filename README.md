@@ -169,4 +169,5 @@ Enclave exited with status 0
 
 * 田洪亮，目前就职于蚂蚁集团
 * Yanyan Shen, 目前就职于Cog Systems
+* 申文博，目前为浙江大学研究员
 
